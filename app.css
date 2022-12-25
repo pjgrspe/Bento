@@ -35,7 +35,7 @@
 
 .darktheme {
   /* Dark Colors  */
-  --accent: #57a0d9; /* Hover color */
+  --accent: #ed6b00; /* Hover color */
   --background: #19171a; /* Background color */
   --cards: #201e21; /* Cards color */
 
@@ -115,7 +115,7 @@ body {
 
 .card:hover {
   transform: translateY(-0.2rem);
-  box-shadow: 0 10px 10px rgb(237, 107, 0);
+  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.35);
 }
 
 .timeBlock {
