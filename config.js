@@ -53,39 +53,39 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/',
+			name: 'Facebook',
+			icon: 'facebook',
+			link: 'https://www.facebook.com/',
 		},
 		{
 			id: '2',
-			name: 'Mail',
-			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			name: 'Twitter',
+			icon: 'twitter',
+			link: 'https://twitter.com/home',
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'YouTube',
+			icon: 'youtube',
+			link: 'https://www.youtube.com/',
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'Instagram',
+			icon: 'instagram',
+			link: 'https://auf.instructure.com/?login_success=1',
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'Twitch',
+			icon: 'twitch',
+			link: 'https://www.twitch.tv',
 		},
 		{
 			id: '6',
-			name: 'Odysee',
-			icon: 'youtube',
-			link: 'https://odysee.com/',
+			name: 'Canvas',
+			icon: 'inbox',
+			link: 'https://auf.instructure.com/?login_success=1',
 		},
 	],
 
@@ -135,46 +135,46 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'user',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'PERPLEX',
+					link: 'https://business.facebook.com/latest/home?asset_id=104315847866327&nav_ref=bm_home_redirect',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Prowler',
+					link: 'https://business.facebook.com/latest/home?asset_id=108819854300252&nav_ref=bm_home_redirect',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Prospect',
+					link: 'https://business.facebook.com/latest/home?asset_id=104038438668022&nav_ref=bm_home_redirect',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Personal',
+					link: 'https://auf.instructure.com/',
 				},
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'mail',
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Personal Mail 1',
+					link: 'https://mail.google.com/mail/u/0/#inbox',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Personal Mail 2',
+					link: 'https://mail.google.com/mail/u/1/#inbox',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'PERPLEX Mail',
+					link: 'https://mail.google.com/mail/u/2/#inbox',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Prowler Mail',
+					link: 'https://mail.google.com/mail/u/3/#inbox',
 				},
 			],
 		},
