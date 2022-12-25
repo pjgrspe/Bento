@@ -45,8 +45,8 @@
 
   /* Image background  */
   --imgcol: linear-gradient(
-    rgba(0, 0, 0, 0.85),
-    rgba(0, 0, 0, 0.85)
+    rgb(0, 0, 0),
+    rgb(0, 0, 0)
   ); /* Filter color */
 }
 
@@ -115,7 +115,7 @@ body {
 
 .card:hover {
   transform: translateY(-0.2rem);
-  box-shadow: 0 10px 10px rgba(0, 45, 80, 13);
+  box-shadow: 0 10px 10px rgb(237, 107, 0);
 }
 
 .timeBlock {
